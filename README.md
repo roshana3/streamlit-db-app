@@ -11,11 +11,9 @@ Streamlit To-Do App is a simple web application built with Streamlit and SQLite 
 - **User-Friendly Interface**: Streamlit provides an intuitive and interactive interface for a seamless user experience.
 
 ## Installation
-
 To run the Streamlit To-Do App locally, follow these steps:
 
-1. **git clone https://github.com/roshana3/streamlit-db-app**: 
-
+1. **git clone repo_url**: 
 
 2. **streamlit-db-app**:
 
@@ -39,10 +37,6 @@ Open your web browser and go to `http://localhost:8501`.
 - **SQLite**: For database management and storing task data.
 - **Python**: Backend programming language.
 
-
-## Acknowledgements
-
-- Special thanks to the Streamlit team for providing an excellent tool for building web applications with Python.
 
 ## Support
 
